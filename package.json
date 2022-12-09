@@ -1,7 +1,12 @@
 {
-  "name": "node-starter",
-  "version": "0.0.0",
+  "name": "eleventy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "start": "npx eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
